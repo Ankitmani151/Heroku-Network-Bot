@@ -1,0 +1,35 @@
+Where can I find more information about known coronaviruses?
+For more information on MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>, For More information on SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>.
+How to check ASA commands?
+\n 1.show running-config <- To display the configuration that is currently running on the ASA \n 2.show configuration <-To display the saved configuration in flash memory on the ASA. \n 3.show running-config access-group<-To display the access-group. \n 4.show running-config aaa <- Displays the AAA configuration.
+ASA Commands
+\n 1.show running-config <- To display the configuration that is currently running on the ASA \n 2.show configuration <-To display the saved configuration in flash memory on the ASA. \n 3.show running-config access-group<-To display the access-group. \n 4.show running-config aaa <- Displays the AAA configuration.
+Cisco ASA commands
+\n 1.show running-config <- To display the configuration that is currently running on the ASA \n 2.show configuration <-To display the saved configuration in flash memory on the ASA. \n 3.show running-config access-group<-To display the access-group. \n 4.show running-config aaa <- Displays the AAA configuration.
+firewall commands
+\n 1.show running-config <- To display the configuration that is currently running on the ASA \n 2.show configuration <-To display the saved configuration in flash memory on the ASA. \n 3.show running-config access-group<-To display the access-group. \n 4.show running-config aaa <- Displays the AAA configuration.
+F5 Commands
+\n 1.Moving from TMSH to Bash:root@F5(Active)(tmos)# run util bash. \n 2.Moving from Bash to TMSH:root@F5:Active] log #tmsh. \n 3.view system version and hotfix detailed information: show sys version detail. \n 4.view system version and hotfix summary information: show sys version. \n 5.General system configuration: show sys
+Check F5 commands
+\n 1.Moving from TMSH to Bash:root@F5(Active)(tmos)# run util bash. \n 2.Moving from Bash to TMSH:root@F5:Active] log #tmsh. \n 3.view system version and hotfix detailed information: show sys version detail. \n 4.view system version and hotfix summary information: show sys version. \n 5.General system configuration: show sys
+loadBalancer commands
+\n 1.Moving from TMSH to Bash:root@F5(Active)(tmos)# run util bash. \n 2.Moving from Bash to TMSH:root@F5:Active] log #tmsh. \n 3.view system version and hotfix detailed information: show sys version detail. \n 4.view system version and hotfix summary information: show sys version. \n 5.General system configuration: show sys
+F5
+\n 1.Moving from TMSH to Bash:root@F5(Active)(tmos)# run util bash. \n 2.Moving from Bash to TMSH:root@F5:Active] log #tmsh. \n 3.view system version and hotfix detailed information: show sys version detail. \n 4.view system version and hotfix summary information: show sys version. \n 5.General system configuration: show sys
+sdwan commands
+\n 1.show system nexthops: shows next hops are reachable or not, \n 2.ping x.x.x.x -I lan0 : used to ping any from a particular interface, \n 3.sho int tunnel summary : It shows all the tuunels formed by sdwan
+silverpeak commands
+\n 1.show system nexthops: shows next hops are reachable or not, \n 2.ping x.x.x.x -I lan0 : used to ping any from a particular interface, \n 3.sho int tunnel summary : It shows all the tuunels formed by sdwan
+sdwan
+\n 1.show system nexthops: shows next hops are reachable or not, \n 2.ping x.x.x.x -I lan0 : used to ping any from a particular interface, \n 3.sho int tunnel summary : It shows all the tuunels formed by sdwan
+BGP Commands
+\n show ip bgp [summary] : Shows Neighors IP and state. \n 2.show ip bgp neighbors: shows all BGP neighors. \n 3.show ip route [bgp]: Show all recieved BGP routes.
+bgp check
+\n show ip bgp [summary] : Shows Neighors IP and state. \n 2.show ip bgp neighbors: shows all BGP neighors. \n 3.show ip route [bgp]: Show all recieved BGP routes.
+bgp
+\n show ip bgp [summary] : Shows Neighors IP and state. \n 2.show ip bgp neighbors: shows all BGP neighors. \n 3.show ip route [bgp]: Show all recieved BGP routes.
+VPN commands
+1. show aaa-server :To verify the radius server status. \n 2. sh vpn-sessiondb anyconnect : It Will show all users active connection. \n 3. sh vpn-sessiondb summury : It will show summary of total active connection. \n 4.sh run tunnel-group : It will show all tunnel group profile configured on AnyConnect gateway,You can see all tunnel group. \n 5.sh run group-policy: It will show group policy configured on Gateway. \n 6.sh crypto ca certificate Name: It will show all detail of cert.
+vpn
+Cisco vpn
+1. show aaa-server :To verify the radius server status. \n 2. sh vpn-sessiondb anyconnect : It Will show all users active connection. \n 3. sh vpn-sessiondb summury : It will show summary of total active connection. \n 4.sh run tunnel-group : It will show all tunnel group profile configured on AnyConnect gateway,You can see all tunnel group. \n 5.sh run group-policy: It will show group policy configured on Gateway. \n 6.sh crypto ca certificate Name: It will show all detail of cert.
